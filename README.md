@@ -39,6 +39,7 @@ A curated list of high-quality, completely free tools for developers, designers,
 - [Penpot](https://penpot.app/) — The first open-source design and prototyping platform meant for cross-domain teams. A great free alternative to Figma.
 - [Tailwind UI Colors](https://uicolors.app/) — Generate complete, customized Tailwind CSS color palettes from a single hex code.
 - [Unsplash](https://unsplash.com/) — The internet’s source of freely-usable, high-resolution stock imagery.
+- [Mini-Tools Free Image Hosting](https://mini-tools.uk/upload) — Upload images and generate direct URLs plus Markdown, HTML, and BBCode snippets for documentation, forums, and quick sharing.
 
 ---
 
