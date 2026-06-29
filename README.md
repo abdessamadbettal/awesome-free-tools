@@ -24,6 +24,7 @@ A curated list of high-quality, completely free tools for developers, designers,
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/) — A free fake REST API for testing and prototyping frontend applications.
 - [Regex101](https://regex101.com/) — The ultimate tool for writing, testing, and debugging Regular Expressions.
 - [Slugme.io](https://slugme.io) — A smart, 100% client-side URL slug generator. Flattens accents, handles multi-language structures (English, Arabic, French, Spanish), and instantly builds clean, SEO-friendly URLs as you type.
+- [ToolBox Pro](https://dingpeng29.github.io/) — 21+ free online developer tools. PDF toolkit, image compressor, QR decoder, password/UUID generators, timestamp converter, YAML/JSON/SQL formatter, and more. All processed client-side in browser, no signup. Open source.
 - [Transform.tools](https://transform.tools/) — A polyglot web converter (JSON to TypeScript, HTML to JSX, SVG to React, etc.).
 
 ---
