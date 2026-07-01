@@ -6,11 +6,14 @@
 A curated list of high-quality, completely free tools for developers, designers, and creators. No "freemium" traps, no heavy paywalls, and no forced sign-ups just to use the core features.
 
 ## 📋 Table of Contents
-- [💻 Development Utilities](#-development-utilities)
-- [🎨 Design & UI/UX](#-design--uiux)
-- [⚡ Productivity & Workflow](#-productivity--workflow)
-- [🌐 Hosting & Deployment](#-hosting--deployment)
-- [🤝 Contributing](#-contributing)
+- [Awesome Free Tools for Developers 🚀](#awesome-free-tools-for-developers-)
+  - [📋 Table of Contents](#-table-of-contents)
+  - [💻 Development Utilities](#-development-utilities)
+  - [🎨 Design \& UI/UX](#-design--uiux)
+  - [⚡ Productivity \& Workflow](#-productivity--workflow)
+  - [🌐 Hosting \& Deployment](#-hosting--deployment)
+  - [🔗 See Also](#-see-also)
+  - [🤝 Contributing](#-contributing)
 
 ---
 
@@ -51,7 +54,7 @@ A curated list of high-quality, completely free tools for developers, designers,
 - [Draw.io](https://app.diagrams.net/) — Completely free, open-source diagramming software for flowcharts and system architecture.
 - [Excalidraw](https://excalidraw.com/) — A virtual whiteboard tool that lets you easily sketch diagrams with a hand-drawn feel.
 - [Photopea](https://www.photopea.com/) — A free, advanced image editor that runs completely in your browser and supports `.psd`, `.ai`, and `.sketch` files.
-- [QrFast.io](https://qrfast.io) — A lightning-fast, zero-tracking QR code generator. Create highly customizable QR codes (URL, WiFi, vCard, WhatsApp) with custom dot styling, center logos, and vector SVG exports.
+- [QrFast.io](https://qrfast.io) — A lightning-fast, zero-tracking QR code generator. Create highly customizable QR codes (URL, WiFi, vCard, WhatsApp) with custom dot styling, center logos, and vector SVG exports. See the [QR Code Engineering Guide](https://github.com/abdessamadbettal/qr-code-engineering-guide) for how QR matrix generation actually works.
 
 ---
 
@@ -62,6 +65,11 @@ A curated list of high-quality, completely free tools for developers, designers,
 - [Netlify](https://www.netlify.com/) — Great platform for static sites and frontend deployment with built-in CI/CD.
 - [Render](https://render.com/) — Offers free hosting for static sites, backend web services (Node, Python, Go), and PostgreSQL databases (with some sleep limits).
 - [Vercel](https://vercel.com/) — Excellent free tier for hosting frontend frameworks (Next.js, Vue, Nuxt) and serverless functions.
+
+---
+
+## 🔗 See Also
+- [Awesome Design & Productivity Tools](https://github.com/abdessamadbettal/awesome-design-productivity) — Curated design/career/SEO angle on the same tools.
 
 ---
 
