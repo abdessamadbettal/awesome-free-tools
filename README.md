@@ -3,7 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-A curated list of high-quality, completely free tools for developers, designers, and creators. No "freemium" traps, no heavy paywalls, and no forced sign-ups just to use the core features.
+A curated list of high-quality, completely free tools for developers, designers, and creators. No "freemium" traps, no heavy paywalls.
 
 ## 📋 Table of Contents
 - [Awesome Free Tools for Developers 🚀](#awesome-free-tools-for-developers-)
