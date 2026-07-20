@@ -54,6 +54,7 @@ A curated list of high-quality, completely free tools for developers, designers,
 - [Draw.io](https://app.diagrams.net/) — Completely free, open-source diagramming software for flowcharts and system architecture.
 - [Excalidraw](https://excalidraw.com/) — A virtual whiteboard tool that lets you easily sketch diagrams with a hand-drawn feel.
 - [Falah.io](https://falah.io) — A free, open-source Islamic toolkit (Quran explorer, prayer times, Hijri calendar, Qibla finder, Zakat & inheritance calculators). Runs 100% client-side with no ads, no accounts, and no location tracking.
+- [Nutilz.com](https://nutilz.com) — A free collection of everyday calculators, text, image, wellness, developer, and finance tools. No signup, no paywalls, runs entirely in the browser.
 - [Photopea](https://www.photopea.com/) — A free, advanced image editor that runs completely in your browser and supports `.psd`, `.ai`, and `.sketch` files.
 - [QrFast.io](https://qrfast.io) — A lightning-fast, zero-tracking QR code generator. Create highly customizable QR codes (URL, WiFi, vCard, WhatsApp) with custom dot styling, center logos, and vector SVG exports. See the [QR Code Engineering Guide](https://github.com/abdessamadbettal/qr-code-engineering-guide) for how QR matrix generation actually works.
 
