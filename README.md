@@ -57,6 +57,7 @@ A curated list of high-quality, completely free tools for developers, designers,
 - [Photopea](https://www.photopea.com/) — A free, advanced image editor that runs completely in your browser and supports `.psd`, `.ai`, and `.sketch` files.
 - [QrFast.io](https://qrfast.io) — A lightning-fast, zero-tracking QR code generator. Create highly customizable QR codes (URL, WiFi, vCard, WhatsApp) with custom dot styling, center logos, and vector SVG exports. See the [QR Code Engineering Guide](https://github.com/abdessamadbettal/qr-code-engineering-guide) for how QR matrix generation actually works.
 
+- [Free Invoice Generator](https://invoice-generator.appsnap.co.uk) — Create professional PDF invoices in seconds. Add line items, automatic totals, logo upload, and instant download. No signup required.
 ---
 
 ## 🌐 Hosting & Deployment
