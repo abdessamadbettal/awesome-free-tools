@@ -53,6 +53,7 @@
 
 - [CarteVisite.io](https://cartevisite.io) - Browser-based maker for double-sided business cards with logo import and vCard QR codes.
 - [Cviya.com](https://cviya.com) — A completely free, ATS-friendly professional resume builder. Features AI-assisted writing, flexible template layouts, unlimited downloads, no watermarks, and native multi-language/RTL support.
+- [Concrete Estimator Hub](https://concreteestimatorhub.com/) - Free browser-based calculators for concrete slabs, bag counts, ready-mix comparison, and job worksheets.
 - [CyberChef](https://gchq.github.io/CyberChef/) - Open-source web app for encoding, encryption, compression, and data analysis.
 - [Draw.io](https://app.diagrams.net) - Open-source diagramming tool for flowcharts and system architecture.
 - [Duration.tools](https://duration.tools) - A comprehensive suite of 32 specialized time and duration calculators. Accurately compute work shifts, payroll timesheets, business days, SMPTE video timecode, cron schedules, and sleep cycles through intuitive calculators.
