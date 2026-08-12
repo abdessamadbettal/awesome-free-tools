@@ -32,6 +32,7 @@
 - [Slug.tools](https://slug.tools) - A comprehensive URL and slug optimization suite featuring 8 specialized tools for developers and SEO specialists. Includes advanced slugifiers, bulk CSV slug processing, UTM campaign link builders, URL parsers, tracking-query cleaners, SERP previews, and URL-safe Base64 utilities.
 - [Slugme.io](https://slugme.io) — A smart, 100% client-side URL slug generator. Flattens accents, handles multi-language structures (English, Arabic, French, Spanish), and instantly builds clean, SEO-friendly URLs as you type.
 - [Transform.tools](https://transform.tools) - Converter between formats such as JSON to TypeScript and SVG to React.
+- [VocalCut](https://vocalcut.com) - A collection of 32 free, client-side browser-based audio tools and utilities running entirely locally.
 
 ## Design and UI/UX
 
