@@ -38,6 +38,7 @@
 - [Arabify.io](https://arabify.io) — A free, browser-based Arabic calligraphy studio and logo maker. Type Arabic text with full harakat, choose from 13 authentic hands (Kufic, Naskh, Diwani), and export transparent images or animated video.
 - [Collage.tools](https://collage.tools) - A creative photo layout suite designed for visual presentations and moodboards. Effortlessly build smart grid mosaics, social media carousels, and before/after sliders, featuring smart color palette extraction.
 - [Coolors](https://coolors.co) - Color palette generator with quick iteration and export.
+- [DeerImage](https://deerimage.com/) - Free no-sign-up browser toolkit for compressing, converting, resizing, and editing images.
 - [Favicon.tools](https://favicon.tools) - An all-in-one favicon suite to generate a full icon set from any image, emoji, or text. Easily convert existing logos into production-ready formats and audit what live websites serve across different devices with a live preview.
 - [Fontsource](https://fontsource.org) - Open-source web fonts packaged as npm modules for self-hosting.
 - [Google Fonts](https://fonts.google.com) - Library of open-source web fonts with easy embedding.
