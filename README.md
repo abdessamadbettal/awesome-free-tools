@@ -64,6 +64,13 @@
 - [Split.tools](https://split.tools) - A versatile file splitting toolkit for handling images, PDFs, audio, and video documents. Easily slice visual grids, extract document page ranges, divide audio tracks with waveform markers, and segment video timeline clips.
 - [Stirling PDF](https://stirlingpdf.io) - Open-source, self-hostable toolkit for PDF operations such as merge, split, and convert.
 - [Worldclock.tools](https://worldclock.tools) - A global time management suite featuring live local time for 34,043 cities worldwide. Streamline international scheduling with an interactive cross-timezone meeting planner alongside 36 specialized converters, timers, and developer utilities.
+- [Codex Theme Builder](https://codextheme.tools) - Free browser tool to build, preview, and export custom themes for OpenAI Codex.
+- [WattsCalc](https://wattscalc.com) - Free wattage and electricity cost calculator for appliances and devices.
+- [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) - Free lawn mowing cost estimates by area and rate.
+- [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) - Free pricing calculator for embroidery jobs.
+- [Image to Crochet Pattern](https://imagetocrochetpattern.com) - Free tool that converts images into crochet patterns.
+- [Pressure Washer Fix](https://pressurewasherfix.com) - Free troubleshooting guides for common pressure washer problems.
+- [SkyCOTL Tools](https://skycotl.tools) - Free guides and calculators for Sky: Children of the Light.
 
 ## Hosting and Deployment
 
