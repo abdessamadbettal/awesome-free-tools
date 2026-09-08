@@ -23,6 +23,7 @@
 - [DevToys](https://devtoys.app) - Offline desktop toolbox with encoders, formatters, and generators for developers.
 - [Encrypt.tools](https://encrypt.tools) - A cryptography toolkit featuring 62 utilities spanning AES-256, RSA/ECC, and Ed25519 key generation. Easily compute SHA and BLAKE hashes, inspect JSON Web Tokens, and experiment with classical ciphers in a streamlined interface.
 - [Faker.tools](https://faker.tools) - A synthetic data generator offering 79 seed-reproducible generators for software testing and development. Instantly generate realistic test data including names, addresses, Luhn and mod-97 valid credit cards, IBANs, API response stubs, and database seeders.
+- [HexConvert](https://hexconvert.io/) - Free browser-based developer number tools: convert between decimal, hexadecimal, binary, and octal, plus bitwise calculators and UUID generators. No signup.
 - [Hoppscotch](https://hoppscotch.io) - Open-source, in-browser API client for REST, GraphQL, and WebSocket requests.
 - [Insomnia](https://insomnia.rest) - Open-source API client for testing REST, GraphQL, and gRPC requests.
 - [IT-Tools](https://it-tools.tech) - Open-source, self-hostable collection of everyday developer utilities.
