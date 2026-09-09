@@ -52,6 +52,7 @@
 ## Productivity and Workflow
 
 - [CarteVisite.io](https://cartevisite.io) - Browser-based maker for double-sided business cards with logo import and vCard QR codes.
+- [CalculateTip](https://calculatetip.io) - Free tip calculator for restaurants, delivery, and salons. Split bills and get tip amounts instantly. No signup.
 - [Cviya.com](https://cviya.com) — A completely free, ATS-friendly professional resume builder. Features AI-assisted writing, flexible template layouts, unlimited downloads, no watermarks, and native multi-language/RTL support.
 - [CyberChef](https://gchq.github.io/CyberChef/) - Open-source web app for encoding, encryption, compression, and data analysis.
 - [Draw.io](https://app.diagrams.net) - Open-source diagramming tool for flowcharts and system architecture.
