@@ -28,6 +28,7 @@
 - [IT-Tools](https://it-tools.tech) - Open-source, self-hostable collection of everyday developer utilities.
 - [JSON Crack](https://jsoncrack.com) - Open-source visualizer that renders JSON, YAML, and CSV as node graphs.
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com) - Fake REST API for testing and prototyping front-end applications.
+- [NextReset](https://nextreset.ai/) - Free browser resource for Codex reset-history observations, official AI-service incident sources, and a browser-local personal countdown.
 - [Regex101](https://regex101.com) - Editor for building, testing, and debugging regular expressions.
 - [Slug.tools](https://slug.tools) - A comprehensive URL and slug optimization suite featuring 8 specialized tools for developers and SEO specialists. Includes advanced slugifiers, bulk CSV slug processing, UTM campaign link builders, URL parsers, tracking-query cleaners, SERP previews, and URL-safe Base64 utilities.
 - [Slugme.io](https://slugme.io) — A smart, 100% client-side URL slug generator. Flattens accents, handles multi-language structures (English, Arabic, French, Spanish), and instantly builds clean, SEO-friendly URLs as you type.
