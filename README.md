@@ -58,6 +58,7 @@
 - [Duration.tools](https://duration.tools) - A comprehensive suite of 32 specialized time and duration calculators. Accurately compute work shifts, payroll timesheets, business days, SMPTE video timecode, cron schedules, and sleep cycles through intuitive calculators.
 - [Excalidraw](https://excalidraw.com) - Virtual whiteboard for sketching diagrams with a hand-drawn style.
 - [Falah.io](https://falah.io) — A free, open-source Islamic toolkit (Quran explorer, prayer times, Hijri calendar, Qibla finder, Zakat & inheritance calculators). Runs 100% client-side with no ads, no accounts, and no location tracking.
+- [FileOnTap](https://fileontap.com/) - Free browser-local File Converter for HEIC/WebP/PNG/JPG and image↔PDF. Files never leave your device; no account.
 - [Obsidian](https://obsidian.md) - Markdown knowledge base that stores notes as local plain-text files.
 - [Photopea](https://www.photopea.com) - Browser-based image editor that opens PSD, AI, and Sketch files.
 - [QrFast.io](https://qrfast.io) — A lightning-fast, zero-tracking QR code generator. Create highly customizable QR codes (URL, WiFi, vCard, WhatsApp) with custom dot styling, center logos, and vector SVG exports. See the [QR Code Engineering Guide](https://github.com/abdessamadbettal/qr-code-engineering-guide) for how QR matrix generation actually works.
