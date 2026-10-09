@@ -46,6 +46,7 @@
 - [Lucide](https://lucide.dev) - Open-source icon set with a consistent stroke style.
 - [Penpot](https://penpot.app) - Open-source design and prototyping platform for teams.
 - [Realtime Colors](https://realtimecolors.com) - Preview of color palettes and typography on a live sample layout.
+- [Stunna browser photo tools](https://stunna-app.com/tools) - Camera-inspired photo filters, a photo booth, and a photo strip maker with local processing, no account, and no watermark.
 - [Tailwind UI Colors](https://uicolors.app) - Generator for Tailwind CSS color scales from a single hex value.
 - [Unsplash](https://unsplash.com) - Library of freely usable high-resolution stock photographs.
 
