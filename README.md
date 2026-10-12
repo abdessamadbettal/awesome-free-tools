@@ -61,6 +61,7 @@
 - [Obsidian](https://obsidian.md) - Markdown knowledge base that stores notes as local plain-text files.
 - [Photopea](https://www.photopea.com) - Browser-based image editor that opens PSD, AI, and Sketch files.
 - [QrFast.io](https://qrfast.io) — A lightning-fast, zero-tracking QR code generator. Create highly customizable QR codes (URL, WiFi, vCard, WhatsApp) with custom dot styling, center logos, and vector SVG exports. See the [QR Code Engineering Guide](https://github.com/abdessamadbettal/qr-code-engineering-guide) for how QR matrix generation actually works.
+- [QuietTake Noise Remover](https://noiseremover.site/) - Free browser-local RNNoise/WASM speech noise reduction, original/cleaned playback and 48 kHz 16-bit WAV export for short recordings; each file must be 50 MB or smaller and five minutes or shorter, with no account or audio upload required.
 - [Split.tools](https://split.tools) - A versatile file splitting toolkit for handling images, PDFs, audio, and video documents. Easily slice visual grids, extract document page ranges, divide audio tracks with waveform markers, and segment video timeline clips.
 - [Stirling PDF](https://stirlingpdf.io) - Open-source, self-hostable toolkit for PDF operations such as merge, split, and convert.
 - [Worldclock.tools](https://worldclock.tools) - A global time management suite featuring live local time for 34,043 cities worldwide. Streamline international scheduling with an interactive cross-timezone meeting planner alongside 36 specialized converters, timers, and developer utilities.
