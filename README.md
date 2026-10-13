@@ -39,6 +39,7 @@
 - [Collage.tools](https://collage.tools) - A creative photo layout suite designed for visual presentations and moodboards. Effortlessly build smart grid mosaics, social media carousels, and before/after sliders, featuring smart color palette extraction.
 - [Coolors](https://coolors.co) - Color palette generator with quick iteration and export.
 - [Favicon.tools](https://favicon.tools) - An all-in-one favicon suite to generate a full icon set from any image, emoji, or text. Easily convert existing logos into production-ready formats and audit what live websites serve across different devices with a live preview.
+- [favicondl](https://favicondl.com) - Free favicon downloader: enter a domain to get its favicon, Apple touch icon, SVG or manifest icons as PNG or ICO at a chosen size. Includes a bulk downloader and a no-key favicon API.
 - [Fontsource](https://fontsource.org) - Open-source web fonts packaged as npm modules for self-hosting.
 - [Google Fonts](https://fonts.google.com) - Library of open-source web fonts with easy embedding.
 - [Iconify](https://iconify.design) - Framework providing over 100,000 open-source vector icons from many sets.
