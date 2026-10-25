@@ -37,6 +37,8 @@
 
 - [Arabify.io](https://arabify.io) — A free, browser-based Arabic calligraphy studio and logo maker. Type Arabic text with full harakat, choose from 13 authentic hands (Kufic, Naskh, Diwani), and export transparent images or animated video.
 - [Collage.tools](https://collage.tools) - A creative photo layout suite designed for visual presentations and moodboards. Effortlessly build smart grid mosaics, social media carousels, and before/after sliders, featuring smart color palette extraction.
+- [TeslaWraps](https://teslawraps.design) — Free browser editor for Tesla Paint Shop wraps: model templates, 3D preview and PNG export. Core editing free; optional AI credits.
+- [PromptImage](https://promptimage.cloud) — Free AI image & video studio with a prompt library. Signup credits, no card needed.
 - [Coolors](https://coolors.co) - Color palette generator with quick iteration and export.
 - [Favicon.tools](https://favicon.tools) - An all-in-one favicon suite to generate a full icon set from any image, emoji, or text. Easily convert existing logos into production-ready formats and audit what live websites serve across different devices with a live preview.
 - [Fontsource](https://fontsource.org) - Open-source web fonts packaged as npm modules for self-hosting.
