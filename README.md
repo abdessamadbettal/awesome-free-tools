@@ -60,6 +60,7 @@
 - [Falah.io](https://falah.io) — A free, open-source Islamic toolkit (Quran explorer, prayer times, Hijri calendar, Qibla finder, Zakat & inheritance calculators). Runs 100% client-side with no ads, no accounts, and no location tracking.
 - [Obsidian](https://obsidian.md) - Markdown knowledge base that stores notes as local plain-text files.
 - [Photopea](https://www.photopea.com) - Browser-based image editor that opens PSD, AI, and Sketch files.
+- [ImgFlow](https://imgflow.taoliapp.com) - Privacy-first image compression and format conversion that runs entirely in the browser (no upload, no account).
 - [QrFast.io](https://qrfast.io) — A lightning-fast, zero-tracking QR code generator. Create highly customizable QR codes (URL, WiFi, vCard, WhatsApp) with custom dot styling, center logos, and vector SVG exports. See the [QR Code Engineering Guide](https://github.com/abdessamadbettal/qr-code-engineering-guide) for how QR matrix generation actually works.
 - [Split.tools](https://split.tools) - A versatile file splitting toolkit for handling images, PDFs, audio, and video documents. Easily slice visual grids, extract document page ranges, divide audio tracks with waveform markers, and segment video timeline clips.
 - [Stirling PDF](https://stirlingpdf.io) - Open-source, self-hostable toolkit for PDF operations such as merge, split, and convert.
