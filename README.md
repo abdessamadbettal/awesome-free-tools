@@ -47,6 +47,7 @@
 - [Penpot](https://penpot.app) - Open-source design and prototyping platform for teams.
 - [Realtime Colors](https://realtimecolors.com) - Preview of color palettes and typography on a live sample layout.
 - [Tailwind UI Colors](https://uicolors.app) - Generator for Tailwind CSS color scales from a single hex value.
+- [Text Match Cut](https://textmatchcut.net/) - Free online text match cut generator. Type a sentence, lock one word, and get fast cuts across paper, book or typewriter scenes, exported as MP4 or WebM in 1080p with no sign-up.
 - [Unsplash](https://unsplash.com) - Library of freely usable high-resolution stock photographs.
 
 ## Productivity and Workflow
