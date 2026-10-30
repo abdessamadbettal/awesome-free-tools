@@ -45,6 +45,7 @@
 - [Khatly.com](https://khatly.com) - Arabic calligraphy generator with full diacritics and multiple traditional typefaces.
 - [Lucide](https://lucide.dev) - Open-source icon set with a consistent stroke style.
 - [Penpot](https://penpot.app) - Open-source design and prototyping platform for teams.
+- [RadarMakers Screenshot Mockup](https://radarmakers.com/tools/screenshot-mockup) - Free browser window mockup generator that frames screenshots with a browser bar, background and shadow, with no watermark and no upload.
 - [Realtime Colors](https://realtimecolors.com) - Preview of color palettes and typography on a live sample layout.
 - [Tailwind UI Colors](https://uicolors.app) - Generator for Tailwind CSS color scales from a single hex value.
 - [Unsplash](https://unsplash.com) - Library of freely usable high-resolution stock photographs.
