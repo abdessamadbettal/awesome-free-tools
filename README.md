@@ -18,6 +18,7 @@
 - [Apikey.tools](https://apikey.tools) - A 64-tool suite for generating, inspecting, and managing API keys, tokens, and secrets. Features CSPRNG key generation, interactive JWT/HMAC debugging, secret scanning, and automated output formatting for `.env` and Kubernetes configuration files.
 - [Arabizi.io](https://arabizi.io) — Free, browser-based Arabic keyboard with real-time phonetic transliteration. Instantly converts Latin-script (Arabizi numbers/letters) into Arabic characters entirely client-side.
 - [Codeshot.io](https://codeshot.io) — Turn code, logs, and terminal sessions into beautiful, syntax-highlighted pictures. Supports 18+ programming languages, custom themes, premium fonts, and high-res PNG/SVG export with zero watermarks.
+- [Datacircle](https://datacircle.dev) - Find the best GTM APIs. Our API is free and open, with no key, at [api.datacircle.dev/v1](https://api.datacircle.dev/v1).
 - [DBDiagram.io](https://dbdiagram.io) - Tool for drawing database entity-relationship diagrams from a text syntax.
 - [Decoder.tools](https://decoder.tools) - A developer decoding and parsing suite featuring 90 tools with structured field-level readouts. Effortlessly inspect and decode Base64, JWTs, hex strings, URLs, classical ciphers, X.509 certificates, network packet headers, and structured IDs.
 - [DevToys](https://devtoys.app) - Offline desktop toolbox with encoders, formatters, and generators for developers.
