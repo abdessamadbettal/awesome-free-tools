@@ -51,6 +51,7 @@
 
 ## Productivity and Workflow
 
+- [Angry Dance Free Creator Tools](https://angrydance.com/tools) - 100% free, zero-login client-side browser utilities for short-form creators (BPM beat-sync calculator, crisp video frame extractor, and watermark-free GIF maker).
 - [CarteVisite.io](https://cartevisite.io) - Browser-based maker for double-sided business cards with logo import and vCard QR codes.
 - [Cviya.com](https://cviya.com) — A completely free, ATS-friendly professional resume builder. Features AI-assisted writing, flexible template layouts, unlimited downloads, no watermarks, and native multi-language/RTL support.
 - [CyberChef](https://gchq.github.io/CyberChef/) - Open-source web app for encoding, encryption, compression, and data analysis.
