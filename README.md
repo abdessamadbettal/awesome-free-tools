@@ -52,6 +52,7 @@
 ## Productivity and Workflow
 
 - [CarteVisite.io](https://cartevisite.io) - Browser-based maker for double-sided business cards with logo import and vCard QR codes.
+- [ChinaBrandPath Importer Workbench](https://tools.chinabrandpath.com) - Free zero-login browser toolkit for international importers: 6-digit WCO HS lookup, DDP/CIF/FOB landed-cost calculator, LCL freight surcharge audit, ISO 2859-1 AQL sampling planner, and China USCC supplier verifier.
 - [Cviya.com](https://cviya.com) — A completely free, ATS-friendly professional resume builder. Features AI-assisted writing, flexible template layouts, unlimited downloads, no watermarks, and native multi-language/RTL support.
 - [CyberChef](https://gchq.github.io/CyberChef/) - Open-source web app for encoding, encryption, compression, and data analysis.
 - [Draw.io](https://app.diagrams.net) - Open-source diagramming tool for flowcharts and system architecture.
